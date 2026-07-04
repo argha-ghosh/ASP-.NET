@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\validations\\minimumageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:validations\\minimumageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\models\\studentregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:models\\studentregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\views\\student\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:views\\student\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\views\\student\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:views\\student\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Views\\Student\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Registration.cshtml",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Views\\Student\\Registration.cshtml",
+              "RelativeToolTip": "Views\\Student\\Registration.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T05:21:48.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Views\\Student\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Success.cshtml",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Views\\Student\\Success.cshtml",
+              "RelativeToolTip": "Views\\Student\\Success.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T06:56:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:59:05.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRegisterModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Models\\StudentRegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentRegisterModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Models\\StudentRegisterModel.cs",
+              "RelativeToolTip": "Models\\StudentRegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:07:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinimumAgeAttribute.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Validations\\MinimumAgeAttribute.cs",
+              "RelativeDocumentMoniker": "Validations\\MinimumAgeAttribute.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Validations\\MinimumAgeAttribute.cs",
+              "RelativeToolTip": "Validations\\MinimumAgeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:22:45.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

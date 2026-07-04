@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Student Login";
+}
+
+<h2>@ViewBag.TitleLogin</h2>
+<p>@ViewBag.MessageLogin</p>
+<p>@ViewBag.LoginMessage</p>
+
+<form action ="" method="post">
+    <div>
+        <label for="username">Username:</label>
+        <input type="text" name="Uname" placeholder="Username" required />
+    </div>
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" name="Pass" placeholder="Password" required />
+    </div>
+    <input type="submit" value="Login" class="btn btn-info" />
+</form>
+
+@* <form action="" method="post">
+    <input type="text" name="Uname" placeholder="Username" class="form-control" />
+    <input type="password" name="Pass" placeholder="Password" class="form-control" />
+    <input type="submit" value="Login" class="btn btn-info" />
+</form> *@
+
+<a href="/student/StudentList">Back to Student List</a>
+<a href="/Student/Registration">Register Student</a>

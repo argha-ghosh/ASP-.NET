@@ -1,0 +1,42 @@
+﻿@model MVCProject.Models.StudentRegisterModel
+
+@{
+    ViewData["Title"] = "Registration Successfull";
+}
+
+<h2>Registration Successful</h2>
+
+<table border="1" cellpadding="6" cellspacing="0">
+    <tr>
+        <th>Field</th>
+        <th>Value</th>
+    </tr>
+    <tr>
+        <td>Student ID</td>
+        <td>@Model.StudentId</td>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td>@Model.Age</td>
+    </tr>
+    <tr>
+        <td>Date of Birth</td>
+        <td>@Model.DateOfBirth.ToString("dd MMM yyyy")</td>
+    </tr>
+    <tr>
+        <td>GPA</td>
+        <td>@Model.GPA</td>
+    </tr>
+</table>
+
+<br />
+
+<a href="/Student/Registration">Register Another Student</a>

@@ -1,0 +1,65 @@
+﻿@model MVCProject.Models.StudentRegisterModel
+
+@{
+    ViewData["Title"] = "Student Registration";
+}
+
+<h2>@ViewBag.TitleRegistraion</h2>
+<p>@ViewBag.MessageRegistration</p>
+<p>@ViewBag.SuccessMessage</p>
+
+
+<form asp-controller="Student" asp-action="Registration" method="post">
+    
+    @Html.ValidationSummary(true)
+
+    <div>
+        <label for="StudentId">Student Id:</label>
+        <input type="text" name="StudentID" id="StudentID"/>
+        @Html.ValidationMessage("StudentId")
+    </div>
+    
+
+    <div>
+        <label for="Name">Full Name:</label>
+        <input type="text" name="Name" id="Name" placeholder="Name"/>
+        @Html.ValidationMessage("Name")
+    </div>
+
+
+    <div>
+        <label for="Email">Email Address:</label>
+        <input type="email" name="Email" id="Email" placeholder="Email"/>
+        @Html.ValidationMessage("Email")
+    </div>
+
+
+    <div>
+        <label for="Age">Enter age:</label>
+        <input type="number" name="Age" id="Age" placeholder="Age"/>
+        @Html.ValidationMessage("Age")
+    </div>
+
+
+    <div>
+        <label for="DateOfBirth">Date of Birth:</label>
+        <input type="date" name="DateOfBirth" id="DateOfBirth" />
+        @Html.ValidationMessage("DateOfBirth")
+    </div>
+
+    
+    <div>
+        <label for="GPA">Enter GPA:</label>
+        <input type="number" name="GPA" id="GPA" placeholder="Enter GPA"/>
+        @Html.ValidationMessage("GPA")
+    </div>
+
+     
+    <div>
+        <button type="submit">Register</button>
+    </div>
+
+
+    @* <input type="submit" value="Login" class="btn btn-info" /> *@
+
+</form>
