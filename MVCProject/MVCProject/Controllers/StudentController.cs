@@ -1,10 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MVCProject.EF;
 using MVCProject.Models;
 
 namespace MVCProject.Controllers
 {
     public class StudentController : Controller
     {
+        SchoolManagmentContext db;
+        public StudentController(SchoolManagmentContext db)
+        {
+            this.db = db;
+        }
+
         public IActionResult Index()
         {
             ViewBag.TitleIndex = "Students Index";

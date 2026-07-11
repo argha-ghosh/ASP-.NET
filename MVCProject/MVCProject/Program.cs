@@ -1,8 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using MVCProject.EF;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+//Injecting the Dependency
+builder.Services.AddDbContext<SchoolManagmentContext>(opt =>
+{
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
