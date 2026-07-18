@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\ef\\schoolmanagmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:ef\\schoolmanagmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A0DF6A-3D58-32B7-D65F-18C0504EDA60}|MVCProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T08:57:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -51,16 +64,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SchoolManagmentContext.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\EF\\SchoolManagmentContext.cs",
+              "RelativeDocumentMoniker": "EF\\SchoolManagmentContext.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\EF\\SchoolManagmentContext.cs",
+              "RelativeToolTip": "EF\\SchoolManagmentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T14:48:11.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T03:46:20.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T03:44:55.071Z"
             },
             {
               "$type": "Document",
@@ -70,35 +94,9 @@
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAuwFgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-22T05:59:05.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentList.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Views\\Student\\StudentList.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\StudentList.cshtml",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Views\\Student\\StudentList.cshtml",
-              "RelativeToolTip": "Views\\Student\\StudentList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-08T14:55:29.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\MVCProject\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T14:46:58.644Z",
               "EditorCaption": ""
             }
           ]

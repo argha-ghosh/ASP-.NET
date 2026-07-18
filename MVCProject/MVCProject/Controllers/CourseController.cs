@@ -1,10 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MVCProject.EF;
 
 namespace MVCProject.Controllers
 {
     [Route("Courses")]
     public class CourseController : Controller
     {
+        SchoolManagmentContext db;
+        public CourseController(SchoolManagmentContext db)
+        {
+            this.db = db;
+        }
 
         //Accessible at: /Courses
         [Route("")]
