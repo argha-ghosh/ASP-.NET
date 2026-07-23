@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Donor List";
+}
+
+<h2>Donor List</h2>
+<a href="/Donor/Create">Add New Donor</a>
+<br />
+<br />
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Name</th>
+        <th>Blood Group</th>
+        <th>Contact</th>
+        <th>City</th>
+        <th>Last Donation</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.FullName</td>
+            <td>@d.BloodGroup</td>
+            <td>@d.ContactNo</td>
+            <td>@d.City</td>
+            <td>@d.LastDonationDate</td>
+            <td>
+                <a href="/Donor/Edit/@d.DonorId">Edit</a> |
+                <a href="/Donor/Delete/@d.DonorId">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

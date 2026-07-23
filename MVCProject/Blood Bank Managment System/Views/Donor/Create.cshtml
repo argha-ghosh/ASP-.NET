@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Add Donor";
+}
+
+<h2>Add New Donor</h2>
+
+@Html.ValidationSummary()
+
+<form action="/Donor/Create" method="post">
+    <div>
+        <label>Full Name:</label>
+        <input type="text" name="FullName" value="@Model?.FullName" />
+        @Html.ValidationMessage("FullName")
+    </div>
+    <br />
+    <div>
+        <label>Blood Group:</label>
+        <select name="BloodGroup">
+            <option value="">-- Select --</option>
+            <option value="A+">A+</option>
+            <option value="A-">A-</option>
+            <option value="B+">B+</option>
+            <option value="B-">B-</option>
+            <option value="AB+">AB+</option>
+            <option value="AB-">AB-</option>
+            <option value="O+">O+</option>
+            <option value="O-">O-</option>
+        </select>
+        @Html.ValidationMessage("BloodGroup")
+    </div>
+    <br />
+    <div>
+        <label>Contact No:</label>
+        <input type="text" name="ContactNo" value="@Model?.ContactNo" />
+        @Html.ValidationMessage("ContactNo")
+    </div>
+    <br />
+    <div>
+        <label>City:</label>
+        <input type="text" name="City" value="@Model?.City" />
+        @Html.ValidationMessage("City")
+    </div>
+    <br />
+    <div>
+        <label>Last Donation Date:</label>
+        <input type="date" name="LastDonationDate" />
+    </div>
+    <br />
+    <input type="submit" value="Save" />
+</form>

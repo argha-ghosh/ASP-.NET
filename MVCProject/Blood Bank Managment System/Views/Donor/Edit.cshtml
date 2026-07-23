@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Edit Donor";
+}
+
+<h2>Edit Donor</h2>
+
+@Html.ValidationSummary()
+
+<form action="/Donor/Edit" method="post">
+    <input type="hidden" name="DonorId" value="@Model.DonorId" />
+    <div>
+        <label>Full Name:</label>
+        <input type="text" name="FullName" value="@Model.FullName" />
+        @Html.ValidationMessage("FullName")
+    </div>
+    <br />
+    <div>
+        <label>Blood Group:</label>
+        <select name="BloodGroup">
+            <option value="">-- Select --</option>
+            @foreach (var bg in new[] { "A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-" })
+            {
+                if (Model.BloodGroup == bg)
+                {
+                    <option value="@bg" selected>@bg</option>
+                }
+                else
+                {
+                    <option value="@bg">@bg</option>
+                }
+            }
+        </select>
+        @Html.ValidationMessage("BloodGroup")
+    </div>
+    <br />
+    <div>
+        <label>Contact No:</label>
+        <input type="text" name="ContactNo" value="@Model.ContactNo" />
+        @Html.ValidationMessage("ContactNo")
+    </div>
+    <br />
+    <div>
+        <label>City:</label>
+        <input type="text" name="City" value="@Model.City" />
+        @Html.ValidationMessage("City")
+    </div>
+    <br />
+    <div>
+        <label>Last Donation Date:</label>
+        <input type="date" name="LastDonationDate" value="@Model.LastDonationDate?.ToString("yyyy-MM-dd")" />
+    </div>
+    <br />
+    <input type="submit" value="Update" />
+</form>

@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Delete Donor";
+}
+
+<h2>Delete Donor</h2>
+
+<p>Are you sure you want to delete <strong>@Model.FullName</strong>?</p>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <td><strong>Name</strong></td>
+        <td>@Model.FullName</td>
+    </tr>
+    <tr>
+        <td><strong>Blood Group</strong></td>
+        <td>@Model.BloodGroup</td>
+    </tr>
+    <tr>
+        <td><strong>City</strong></td>
+        <td>@Model.City</td>
+    </tr>
+</table>
+
+<br />
+<form action="/Donor/Delete/@Model.DonorId" method="post">
+    <input type="submit" value="Yes, Delete" />
+    <a href="/Donor/Index">Cancel</a>
+</form>

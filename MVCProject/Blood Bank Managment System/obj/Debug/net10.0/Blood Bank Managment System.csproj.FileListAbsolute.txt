@@ -1,0 +1,226 @@
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\appsettings.Development.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\appsettings.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Blood Bank Managment System.staticwebassets.runtime.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Blood Bank Managment System.staticwebassets.endpoints.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Blood Bank Managment System.exe
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Blood Bank Managment System.deps.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Blood Bank Managment System.runtimeconfig.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Blood Bank Managment System.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Blood Bank Managment System.pdb
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Azure.Core.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Azure.Identity.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Humanizer.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.ClientModel.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.CodeDom.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Memory.Data.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.csproj.AssemblyReference.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.AssemblyInfoInputs.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.AssemblyInfo.cs
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.csproj.CoreCompileInputs.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.MvcApplicationPartsAssemblyInfo.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.RazorAssemblyInfo.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.RazorAssemblyInfo.cs
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.sourcelink.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\scopedcss\bundle\Blood Bank Managment System.styles.css
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\scopedcss\projectbundle\Blood Bank Managment System.bundle.scp.css
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\dzhtzo6nyp-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\5vefkkvln0-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\ua4zwuktla-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\1usp972me1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\yap4tfz9c6-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\u013x50tv5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\43xsok20d6-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\vewe2zigl8-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\dmwwmqk4tv-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\a2f9yu54kf-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\h6aqvi1j6w-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\4txgot65eb-{0}-ub07r2b239-ub07r2b239.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\u7c5snrejo-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\uai13ga5t9-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\b702xrzmc9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\x7dlloe6k1-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\n8a4tc7heb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\oz4qbn3phh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\001q1grvdh-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\jvoo4s25uk-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\31qa5sco7k-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\ee9mecl982-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\h4qcjnde4g-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\u1wjcx95yu-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\fhxo1ild6k-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\2i7901id5f-{0}-06098lyss8-06098lyss8.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\necj8dp0ie-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\gb735chuut-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\rfpdimbw7v-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\xqyog5k66i-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\aqen2bbd5c-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\6vy3dng0r7-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\5k0vhpic5z-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\yy17dht4sc-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\mprt1v4d0t-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\04i5fwgwvp-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\icc0wjlu1d-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\pjmvkri4g9-{0}-493y06b0oq-493y06b0oq.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\xd0wku4kam-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\8adupzi982-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\rpw2o0gm2x-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\hpoiv56if1-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\js44cglvp3-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\7dxxqjo8ny-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\48fdw9yen4-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\t14k269lnx-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\c7mvhnf89i-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\c9m306evxb-{0}-47otxtyo56-47otxtyo56.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\858n7lxrhc-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\fn2vjid54c-{0}-356vix0kms-356vix0kms.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\srze11d040-{0}-83jwlth58m-83jwlth58m.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\cuv9uudt3r-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\xi1om4203z-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\vtwcoheuje-{0}-ag7o75518u-ag7o75518u.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\uaiafvn7a0-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\ao39s56tit-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\6buvhcbpkn-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\5f5u9h8324-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\2mo3rtxi2s-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\173drbe3vh-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\7rst8v4ylq-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\2zj1j9dktd-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\1lnfu96twi-{0}-duab26y6qs-duab26y6qs.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\compressed\nqvgrww8be-{0}-duab26y6qs-duab26y6qs.gz
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\staticwebassets.build.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\staticwebassets.development.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\swae.build.ex.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Ba.B1F3D0E2.Up2Date
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\refint\Blood Bank Managment System.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.pdb
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\Blood Bank Managment System.genruntimeconfig.cache
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\ref\Blood Bank Managment System.dll
+D:\AIUB\ASP .Net\Project\MVCProject\Blood Bank Managment System\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
