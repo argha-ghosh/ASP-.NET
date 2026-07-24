@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Donation Count per Donor";
+}
+
+<h2>Total Donations per Donor</h2>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Name</th>
+        <th>Blood Group</th>
+        <th>Total Donations</th>
+    </tr>
+    @foreach (var d in ViewBag.Data)
+    {
+        <tr>
+            <td>@d.FullName</td>
+            <td>@d.BloodGroup</td>
+            <td>@d.TotalDonations</td>
+        </tr>
+    }
+</table>

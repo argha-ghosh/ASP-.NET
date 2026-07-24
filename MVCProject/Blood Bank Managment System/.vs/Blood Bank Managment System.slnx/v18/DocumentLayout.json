@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\report\\donationcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\report\\donationcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\ef\\bloodbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:ef\\bloodbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\report\\filterbybloodgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\report\\filterbybloodgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\report\\sortedbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\report\\sortedbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\report\\totalvolume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\report\\totalvolume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34505E0-069A-4C5A-BD12-AC33A08DB7AD}|Blood Bank Managment System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\ef\\bloodbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:ef\\bloodbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\blood bank managment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1934FD77-D900-F7BA-B4C2-C2D0991FBD16}|Blood Bank Managment System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,59 +70,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Donor\\Edit.cshtml",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Donor\\Edit.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "TotalVolume.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\TotalVolume.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\TotalVolume.cshtml",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\TotalVolume.cshtml",
+              "RelativeToolTip": "Views\\Report\\TotalVolume.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-23T09:25:41.125Z",
+              "WhenOpened": "2026-07-23T12:00:32.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortedByDate.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\SortedByDate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\SortedByDate.cshtml",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\SortedByDate.cshtml",
+              "RelativeToolTip": "Views\\Report\\SortedByDate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T11:54:01.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "FilterByBloodGroup.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\FilterByBloodGroup.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\FilterByBloodGroup.cshtml",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\FilterByBloodGroup.cshtml",
+              "RelativeToolTip": "Views\\Report\\FilterByBloodGroup.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T11:52:49.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonationCount.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\DonationCount.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\DonationCount.cshtml",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Report\\DonationCount.cshtml",
+              "RelativeToolTip": "Views\\Report\\DonationCount.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T11:59:02.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T10:21:05.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Donor\\List.cshtml",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\List.cshtml",
               "RelativeToolTip": "Views\\Donor\\List.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-23T08:41:19.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Donor.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\EF\\Tables\\Donor.cs",
               "RelativeDocumentMoniker": "EF\\Tables\\Donor.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\EF\\Tables\\Donor.cs",
               "RelativeToolTip": "EF\\Tables\\Donor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T08:40:01.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "DonorController.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Controllers\\DonorController.cs",
               "RelativeDocumentMoniker": "Controllers\\DonorController.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Controllers\\DonorController.cs",
               "RelativeToolTip": "Controllers\\DonorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwGEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T07:50:37.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Donor\\Delete.cshtml",
@@ -110,12 +182,11 @@
               "RelativeToolTip": "Views\\Donor\\Delete.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-23T09:48:21.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T09:48:21.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Donor\\Create.cshtml",
@@ -123,25 +194,36 @@
               "RelativeToolTip": "Views\\Donor\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-23T08:32:10.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T08:32:10.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BloodBankDbContext.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\EF\\BloodBankDbContext.cs",
               "RelativeDocumentMoniker": "EF\\BloodBankDbContext.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\EF\\BloodBankDbContext.cs",
               "RelativeToolTip": "EF\\BloodBankDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwA0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T07:59:28.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Donor\\Edit.cshtml",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Views\\Donor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Donor\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T09:25:41.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\Blood Bank Managment System\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -149,8 +231,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T07:57:05.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T07:57:05.145Z"
             }
           ]
         }

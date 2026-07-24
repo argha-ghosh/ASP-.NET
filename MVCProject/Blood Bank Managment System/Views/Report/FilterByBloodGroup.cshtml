@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Filter by Blood Group";
+}
+
+<h2>Filter by Blood Group</h2>
+
+<form action="/Report/FilterByBloodGroup" method="get">
+    <select name="bloodGroup">
+        <option value="">-- All --</option>
+        @foreach (var bg in new[] { "A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-" })
+        {
+            if (ViewBag.SelectedGroup == bg)
+            {
+                <option value="@bg" selected>@bg</option>
+            }
+            else
+            {
+                <option value="@bg">@bg</option>
+            }
+        }
+    </select>
+    <input type="submit" value="Filter" />
+</form>
+
+<br />
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Name</th>
+        <th>Blood Group</th>
+        <th>City</th>
+        <th>Contact</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.FullName</td>
+            <td>@d.BloodGroup</td>
+            <td>@d.City</td>
+            <td>@d.ContactNo</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Sorted by Last Donation Date";
+}
+
+<h2>Donors — Most Recent First</h2>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Name</th>
+        <th>Blood Group</th>
+        <th>City</th>
+        <th>Last Donation Date</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.FullName</td>
+            <td>@d.BloodGroup</td>
+            <td>@d.City</td>
+            <td>@d.LastDonationDate</td>
+        </tr>
+    }
+</table>
