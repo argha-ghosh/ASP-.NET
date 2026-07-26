@@ -41,8 +41,8 @@ namespace Blood_Bank_Managment_System.Controllers
         // Get Donors - Block
         public IActionResult List()
         {
-            var data = db.Donors.ToList();
-            return View(data);
+            var donordata = db.Donors.ToList();
+            return View(donordata);
         }
 
         // Edit Donor - Block
