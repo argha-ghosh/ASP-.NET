@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace API1STPRO.EF.Tables;
+
+public partial class Course
+{
+    public int StudentId { get; set; }
+
+    public string CourseName { get; set; } = null!;
+
+    public string CourseId { get; set; } = null!;
+
+    public string CourseTeacher { get; set; } = null!;
+
+    public virtual Student Student { get; set; } = null!;
+}
