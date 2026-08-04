@@ -18,6 +18,8 @@ public partial class SchoolManagmentContext : DbContext
 
     public virtual DbSet<Course> Courses { get; set; }
 
+    public virtual DbSet<Department> Departments { get; set; }
+
     public virtual DbSet<Student> Students { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -40,9 +42,17 @@ public partial class SchoolManagmentContext : DbContext
                 .HasConstraintName("FK_Courses_Studensts");
         });
 
+        modelBuilder.Entity<Department>(entity =>
+        {
+            entity.HasKey(e => e.DeptId);
+
+            entity.Property(e => e.DeptLocation).HasMaxLength(50);
+            entity.Property(e => e.DeptName).HasMaxLength(50);
+        });
+
         modelBuilder.Entity<Student>(entity =>
         {
-            entity.HasKey(e => e.StudentId);
+            entity.HasKey(e => e.StudentId).HasName("PK_Studensts");
 
             entity.Property(e => e.BloodGroup).HasMaxLength(50);
             entity.Property(e => e.Cgpa)

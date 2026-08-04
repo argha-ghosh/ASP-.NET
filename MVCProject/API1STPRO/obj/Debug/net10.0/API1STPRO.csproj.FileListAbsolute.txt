@@ -151,10 +151,10 @@ D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\staticwebassets.
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\staticwebassets.development.json
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\swae.build.ex.cache
+D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\API1STPRO.csproj.Up2Date
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\API1STPRO.dll
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\refint\API1STPRO.dll
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\API1STPRO.pdb
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\API1STPRO.genruntimeconfig.cache
 D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\ref\API1STPRO.dll
-D:\AIUB\ASP .Net\Project\MVCProject\API1STPRO\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
