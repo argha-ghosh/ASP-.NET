@@ -13,7 +13,7 @@
     }
   ],
   "paths": {
-    "/api/Department/AddDepartmentWithDto": {
+    "/api/Department/AddDepartment": {
       "post": {
         "tags": [
           "Department"
@@ -22,17 +22,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/DeptDTO"
+                "$ref": "#/components/schemas/Department"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/DeptDTO"
+                "$ref": "#/components/schemas/Department"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/DeptDTO"
+                "$ref": "#/components/schemas/Department"
               }
             }
           },
@@ -45,11 +45,112 @@
         }
       }
     },
-    "/api/Department/GetAllDepartmentsWithDto": {
+    "/api/Department/GetAllDepartments": {
       "get": {
         "tags": [
           "Department"
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Department/GetDepartmentById/{id}": {
+      "get": {
+        "tags": [
+          "Department"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "pattern": "^-?(?:0|[1-9]\\d*)$",
+              "type": [
+                "integer",
+                "string"
+              ],
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Department/DeleteDepartment/{id}": {
+      "delete": {
+        "tags": [
+          "Department"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "pattern": "^-?(?:0|[1-9]\\d*)$",
+              "type": [
+                "integer",
+                "string"
+              ],
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Department/UpdateDepartment/{id}": {
+      "put": {
+        "tags": [
+          "Department"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "pattern": "^-?(?:0|[1-9]\\d*)$",
+              "type": [
+                "integer",
+                "string"
+              ],
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            }
+          },
+          "required": true
+        },
         "responses": {
           "200": {
             "description": "OK"
@@ -264,12 +365,7 @@
           }
         }
       },
-      "DeptDTO": {
-        "required": [
-          "deptId",
-          "deptName",
-          "deptLocation"
-        ],
+      "Department": {
         "type": "object",
         "properties": {
           "deptId": {

@@ -11,7 +11,8 @@
           "Microsoft.AspNetCore.OpenApi": "10.0.10",
           "Microsoft.EntityFrameworkCore": "10.0.10",
           "Microsoft.EntityFrameworkCore.Design": "10.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "10.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "10.0.10",
+          "Microsoft.OpenApi": "2.0.0"
         },
         "runtime": {
           "API1STPRO.dll": {}
