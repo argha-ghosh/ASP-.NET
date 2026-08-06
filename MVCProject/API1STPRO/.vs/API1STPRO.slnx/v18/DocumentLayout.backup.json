@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\studentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\studentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\departmentcoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\departmentcoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\deptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\deptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\api1stpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:api1stpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\ef\\schoolmanagmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:ef\\schoolmanagmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\model\\deptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:model\\deptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\api1stpro\\api1stpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{311A9C48-E7DE-619C-350F-32EE07BDD237}|API1STPRO.csproj|solutionrelative:api1stpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,19 +83,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "API1STPRO",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\API1STPRO.csproj",
-              "RelativeDocumentMoniker": "API1STPRO.csproj",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\API1STPRO.csproj",
-              "RelativeToolTip": "API1STPRO.csproj",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-04T15:01:59.29Z",
+              "Title": "StudentInfoModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\StudentInfoModel.cs",
+              "RelativeDocumentMoniker": "Model\\StudentInfoModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\StudentInfoModel.cs",
+              "RelativeToolTip": "Model\\StudentInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T16:25:56.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwDUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T06:10:50.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DepartmentStudentModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\DepartmentStudentModel.cs",
+              "RelativeDocumentMoniker": "Model\\DepartmentStudentModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\DepartmentStudentModel.cs",
+              "RelativeToolTip": "Model\\DepartmentStudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T14:28:25.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentCourseModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\DepartmentCourseModel.cs",
+              "RelativeDocumentMoniker": "Model\\DepartmentCourseModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\DepartmentCourseModel.cs",
+              "RelativeToolTip": "Model\\DepartmentCourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T16:14:04.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T11:46:36.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "EF\\Tables\\Student.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:02:26.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T10:02:33.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\Tables\\Course.cs",
+              "RelativeDocumentMoniker": "EF\\Tables\\Course.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\Tables\\Course.cs",
+              "RelativeToolTip": "EF\\Tables\\Course.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T15:57:48.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\CourseModel.cs",
+              "RelativeDocumentMoniker": "Model\\CourseModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\CourseModel.cs",
+              "RelativeToolTip": "Model\\CourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T16:14:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolManagmentContext.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\SchoolManagmentContext.cs",
+              "RelativeDocumentMoniker": "EF\\SchoolManagmentContext.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\SchoolManagmentContext.cs",
+              "RelativeToolTip": "EF\\SchoolManagmentContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T10:04:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DeptDTO.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\DeptDTO.cs",
               "RelativeDocumentMoniker": "Model\\DeptDTO.cs",
@@ -72,66 +225,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Model\\StudentModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\StudentModel.cs",
+              "RelativeToolTip": "Model\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:03:12.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\Tables\\Department.cs",
               "RelativeDocumentMoniker": "EF\\Tables\\Department.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\Tables\\Department.cs",
               "RelativeToolTip": "EF\\Tables\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-02T10:08:58.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "Model\\DepartmentModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Model\\DepartmentModel.cs",
+              "RelativeToolTip": "Model\\DepartmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T10:02:33.553Z",
+              "WhenOpened": "2026-08-06T11:42:46.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SchoolManagmentContext.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\SchoolManagmentContext.cs",
-              "RelativeDocumentMoniker": "EF\\SchoolManagmentContext.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\EF\\SchoolManagmentContext.cs",
-              "RelativeToolTip": "EF\\SchoolManagmentContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDEAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T10:04:12.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-01T06:45:44.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T06:10:50.334Z"
+              "DocumentIndex": 15,
+              "Title": "API1STPRO.csproj",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\API1STPRO.csproj",
+              "RelativeDocumentMoniker": "API1STPRO.csproj",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\API1STPRO\\API1STPRO.csproj",
+              "RelativeToolTip": "API1STPRO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-04T15:01:59.29Z"
             }
           ]
         }

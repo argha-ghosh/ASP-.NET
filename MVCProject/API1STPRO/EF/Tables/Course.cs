@@ -13,5 +13,7 @@ public partial class Course
 
     public string CourseTeacher { get; set; } = null!;
 
-    public virtual Student Student { get; set; } = null!;
+    public int DeptId { get; set; }
+
+    public virtual Department Dept { get; set; } = null!;
 }

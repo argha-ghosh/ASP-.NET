@@ -1,15 +1,15 @@
 [
   {
     "ContainingType": "API1STPRO.Controllers.DepartmentController",
-    "Method": "Create",
-    "RelativePath": "api/Department/AddDepartment",
-    "HttpMethod": "POST",
+    "Method": "GetWithCourses",
+    "RelativePath": "api/Department/{id}/GetDepartmentWithCourses",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "department",
-        "Type": "API1STPRO.EF.Tables.Department",
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -17,15 +17,31 @@
   },
   {
     "ContainingType": "API1STPRO.Controllers.DepartmentController",
-    "Method": "Delete",
-    "RelativePath": "api/Department/DeleteDepartment/{id}",
-    "HttpMethod": "DELETE",
+    "Method": "GetWithStudents",
+    "RelativePath": "api/Department/{id}/GetDepartmentWithStudents",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API1STPRO.Controllers.DepartmentController",
+    "Method": "Create",
+    "RelativePath": "api/Department/AddDepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dM",
+        "Type": "API1STPRO.Model.DepartmentModel",
         "IsRequired": true
       }
     ],
@@ -43,7 +59,7 @@
   },
   {
     "ContainingType": "API1STPRO.Controllers.DepartmentController",
-    "Method": "GetById",
+    "Method": "Get",
     "RelativePath": "api/Department/GetDepartmentById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -58,21 +74,16 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "API1STPRO.Controllers.DepartmentController",
-    "Method": "Update",
-    "RelativePath": "api/Department/UpdateDepartment/{id}",
-    "HttpMethod": "PUT",
+    "ContainingType": "API1STPRO.Controllers.StudentController",
+    "Method": "Get",
+    "RelativePath": "api/Student/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "department",
-        "Type": "API1STPRO.EF.Tables.Department",
         "IsRequired": true
       }
     ],
@@ -87,8 +98,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "student",
-        "Type": "API1STPRO.EF.Tables.Student",
+        "Name": "SM",
+        "Type": "API1STPRO.Model.StudentModel",
         "IsRequired": true
       }
     ],
@@ -96,62 +107,15 @@
   },
   {
     "ContainingType": "API1STPRO.Controllers.StudentController",
-    "Method": "Delete",
-    "RelativePath": "api/Student/DeleteStudent/{id}",
-    "HttpMethod": "DELETE",
+    "Method": "Update",
+    "RelativePath": "api/Student/UpdateStudent",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API1STPRO.Controllers.StudentController",
-    "Method": "GetAll",
-    "RelativePath": "api/Student/GetAllStudents",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API1STPRO.Controllers.StudentController",
-    "Method": "Get",
-    "RelativePath": "api/Student/GetStudentById/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API1STPRO.Controllers.StudentController",
-    "Method": "Put",
-    "RelativePath": "api/Student/UpdateStudent/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "student",
-        "Type": "API1STPRO.EF.Tables.Student",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
+        "Name": "SM",
+        "Type": "API1STPRO.Model.StudentModel",
         "IsRequired": true
       }
     ],

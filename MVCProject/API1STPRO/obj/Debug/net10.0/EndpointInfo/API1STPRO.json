@@ -22,17 +22,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Department"
+                "$ref": "#/components/schemas/DepartmentModel"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Department"
+                "$ref": "#/components/schemas/DepartmentModel"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Department"
+                "$ref": "#/components/schemas/DepartmentModel"
               }
             }
           },
@@ -84,8 +84,8 @@
         }
       }
     },
-    "/api/Department/DeleteDepartment/{id}": {
-      "delete": {
+    "/api/Department/{id}/GetDepartmentWithStudents": {
+      "get": {
         "tags": [
           "Department"
         ],
@@ -111,8 +111,8 @@
         }
       }
     },
-    "/api/Department/UpdateDepartment/{id}": {
-      "put": {
+    "/api/Department/{id}/GetDepartmentWithCourses": {
+      "get": {
         "tags": [
           "Department"
         ],
@@ -131,26 +131,6 @@
             }
           }
         ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Department"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Department"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Department"
-              }
-            }
-          },
-          "required": true
-        },
         "responses": {
           "200": {
             "description": "OK"
@@ -167,17 +147,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Student"
+                "$ref": "#/components/schemas/StudentModel"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Student"
+                "$ref": "#/components/schemas/StudentModel"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Student"
+                "$ref": "#/components/schemas/StudentModel"
               }
             }
           },
@@ -190,75 +170,26 @@
         }
       }
     },
-    "/api/Student/GetAllStudents": {
-      "get": {
+    "/api/Student/UpdateStudent": {
+      "post": {
         "tags": [
           "Student"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Student/GetStudentById/{id}": {
-      "get": {
-        "tags": [
-          "Student"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Student/UpdateStudent/{id}": {
-      "put": {
-        "tags": [
-          "Student"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Student"
+                "$ref": "#/components/schemas/StudentModel"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Student"
+                "$ref": "#/components/schemas/StudentModel"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Student"
+                "$ref": "#/components/schemas/StudentModel"
               }
             }
           },
@@ -271,8 +202,8 @@
         }
       }
     },
-    "/api/Student/DeleteStudent/{id}": {
-      "delete": {
+    "/api/Student/{id}": {
+      "get": {
         "tags": [
           "Student"
         ],
@@ -340,32 +271,7 @@
   },
   "components": {
     "schemas": {
-      "Course": {
-        "type": "object",
-        "properties": {
-          "studentId": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
-            "format": "int32"
-          },
-          "courseName": {
-            "type": "string"
-          },
-          "courseId": {
-            "type": "string"
-          },
-          "courseTeacher": {
-            "type": "string"
-          },
-          "student": {
-            "$ref": "#/components/schemas/Student"
-          }
-        }
-      },
-      "Department": {
+      "DepartmentModel": {
         "type": "object",
         "properties": {
           "deptId": {
@@ -384,7 +290,7 @@
           }
         }
       },
-      "Student": {
+      "StudentModel": {
         "type": "object",
         "properties": {
           "studentId": {
@@ -399,7 +305,10 @@
             "type": "string"
           },
           "deptName": {
-            "type": "string"
+            "type": [
+              "null",
+              "string"
+            ]
           },
           "bloodGroup": {
             "type": "string"
@@ -412,16 +321,6 @@
             "type": [
               "null",
               "string"
-            ]
-          },
-          "course": {
-            "oneOf": [
-              {
-                "type": "null"
-              },
-              {
-                "$ref": "#/components/schemas/Course"
-              }
             ]
           }
         }

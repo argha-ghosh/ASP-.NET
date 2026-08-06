@@ -1,3 +1,4 @@
+using API1STPRO;
 using API1STPRO.EF;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddAutoMapper(typeof(MappingConfig));
 //Db Context
 builder.Services.AddDbContext<SchoolManagmentContext>(opt =>
 {

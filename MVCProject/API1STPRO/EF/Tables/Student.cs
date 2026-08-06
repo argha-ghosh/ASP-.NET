@@ -17,5 +17,7 @@ public partial class Student
 
     public string? Cgpa { get; set; }
 
-    public virtual Course? Course { get; set; }
+    public int DeptId { get; set; }
+
+    public virtual Department Dept { get; set; } = null!;
 }
