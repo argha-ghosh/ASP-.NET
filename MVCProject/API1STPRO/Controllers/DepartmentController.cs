@@ -67,38 +67,17 @@ namespace API1STPRO.Controllers
             return Ok(mapped);
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        [HttpGet("{id}/GetCounts")]
+        public IActionResult GetCounts(int id)
+        {
+            var data = (from d in db.Departments
+                        .Include(Dp => Dp.Students)
+                        .Include(Dp => Dp.Courses)
+                        where d.DeptId == id
+                        select d).SingleOrDefault();
+            var mapped = mapper.Map<DepartmentInfoModel>(data);
+            return Ok(mapped);    
+        }
 
 
         //private readonly SchoolManagmentContext db;

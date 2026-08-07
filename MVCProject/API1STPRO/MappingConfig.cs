@@ -18,7 +18,16 @@ namespace API1STPRO
                 ForMember(
                 dest => dest.DeptLocation,
                 src => src.MapFrom(s => s.Dept.DeptLocation)
-                ).ReverseMap();
+                );
+            CreateMap<Department, DepartmentInfoModel>().
+                ForMember(
+                dest => dest.CountOfStudents,
+                src => src.MapFrom(s => s.Students.Count)
+                ).
+                ForMember(
+                dest => dest.CountOfCourses,
+                src => src.MapFrom(s => s.Courses.Count.ToString())
+                );
         }
     }
 }

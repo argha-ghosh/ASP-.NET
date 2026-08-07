@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "API1STPRO.Controllers.DepartmentController",
+    "Method": "GetCounts",
+    "RelativePath": "api/Department/{id}/GetCounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API1STPRO.Controllers.DepartmentController",
     "Method": "GetWithCourses",
     "RelativePath": "api/Department/{id}/GetDepartmentWithCourses",
     "HttpMethod": "GET",
