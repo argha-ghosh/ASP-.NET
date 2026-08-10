@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\controllers\\fuellogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:controllers\\fuellogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\ef\\fleetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:ef\\fleetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\ef\\tables\\fuellog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:ef\\tables\\fuellog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\models\\filledonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:models\\filledonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\models\\fueldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:models\\fueldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\labtask2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73BAFDEA-3A11-49BF-AC38-5ACD55E7E706}|LABTASK2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FleetDbContext.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\EF\\FleetDbContext.cs",
+              "RelativeDocumentMoniker": "EF\\FleetDbContext.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\EF\\FleetDbContext.cs",
+              "RelativeToolTip": "EF\\FleetDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:45:15.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuellogsController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Controllers\\FuellogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuellogsController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Controllers\\FuellogsController.cs",
+              "RelativeToolTip": "Controllers\\FuellogsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:08:59.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilledOnModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Models\\FilledOnModel.cs",
+              "RelativeDocumentMoniker": "Models\\FilledOnModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Models\\FilledOnModel.cs",
+              "RelativeToolTip": "Models\\FilledOnModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:07:59.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Models\\BusModel.cs",
+              "RelativeDocumentMoniker": "Models\\BusModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Models\\BusModel.cs",
+              "RelativeToolTip": "Models\\BusModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:07:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuelLog.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\EF\\Tables\\FuelLog.cs",
+              "RelativeDocumentMoniker": "EF\\Tables\\FuelLog.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\EF\\Tables\\FuelLog.cs",
+              "RelativeToolTip": "EF\\Tables\\FuelLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:04:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:03:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuelDTO.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Models\\FuelDTO.cs",
+              "RelativeDocumentMoniker": "Models\\FuelDTO.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Models\\FuelDTO.cs",
+              "RelativeToolTip": "Models\\FuelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:02:29.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-10T04:51:44.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\LABTASK2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T04:51:39.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

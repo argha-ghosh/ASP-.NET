@@ -80,6 +80,7 @@ namespace API1STPRO.Controllers
         }
 
 
+        //-------------------------------  Without Auto Mapper  ---------------------------------
         //private readonly SchoolManagmentContext db;
 
         //public DepartmentController(SchoolManagmentContext db)
