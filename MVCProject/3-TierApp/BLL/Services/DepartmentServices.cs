@@ -24,5 +24,11 @@ namespace BLL.Services
             return mappedData;
         }
 
+        public List<DepartmentStudentModel> GetWithStudents()
+        {
+            var data = repo.GetWithStudents();
+            var mappedData = mapper.Map<List<DepartmentStudentModel>>(data);
+            return mappedData;
+        }
     }
 }

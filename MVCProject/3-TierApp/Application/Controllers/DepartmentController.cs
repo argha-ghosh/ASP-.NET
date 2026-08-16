@@ -20,5 +20,11 @@ namespace Application.Controllers
             var data = services.All();
             return Ok(data);
         }
+
+        [HttpGet("all/students")]
+        public IActionResult GetWithStudents() {
+            var data = services.GetWithStudents();
+            return Ok(data);
+        }
     }
 }

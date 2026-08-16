@@ -12,6 +12,8 @@ namespace BLL
         public MappingConfig()
         {
             CreateMap<Department, DepartmentModel>().ReverseMap();
+            CreateMap<Student, StudentModel>().ReverseMap();
+            CreateMap<Department, DepartmentStudentModel>().ReverseMap();
         }
     }
 }

@@ -10,6 +10,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Application.Controllers.DepartmentController",
+    "Method": "GetWithStudents",
+    "RelativePath": "api/Department/all/students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Application.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
