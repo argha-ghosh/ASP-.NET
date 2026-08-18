@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\bll\\models\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\application\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\bll\\models\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\departmentstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\3-tierapp\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentStudentModel.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Models\\DepartmentStudentModel.cs",
-              "RelativeDocumentMoniker": "BLL\\Models\\DepartmentStudentModel.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Models\\DepartmentStudentModel.cs",
-              "RelativeToolTip": "BLL\\Models\\DepartmentStudentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T17:40:39.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\DAL\\EF\\Tables\\Student.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Student.cs",
@@ -91,12 +78,11 @@
               "RelativeToolTip": "DAL\\EF\\Tables\\Student.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T17:41:31.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-16T17:41:31.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\MappingConfig.cs",
               "RelativeDocumentMoniker": "BLL\\MappingConfig.cs",
@@ -104,56 +90,69 @@
               "RelativeToolTip": "BLL\\MappingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T16:22:00.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-16T16:22:00.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\Program.cs",
               "RelativeDocumentMoniker": "Application\\Program.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\Program.cs",
               "RelativeToolTip": "Application\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T15:29:31.698Z"
+              "WhenOpened": "2026-08-16T15:29:31.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DepartmentRepo.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\DAL\\Repository\\DepartmentRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\DepartmentRepo.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\DAL\\Repository\\DepartmentRepo.cs",
               "RelativeToolTip": "DAL\\Repository\\DepartmentRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-16T15:33:14.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DepartmentServices.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Services\\DepartmentServices.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\DepartmentServices.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Services\\DepartmentServices.cs",
               "RelativeToolTip": "BLL\\Services\\DepartmentServices.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-16T15:33:43.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Application\\appsettings.json",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\appsettings.json",
+              "RelativeToolTip": "Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-16T15:27:37.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\DepartmentController.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "Application\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-16T15:57:11.409Z",
               "EditorCaption": ""
@@ -161,6 +160,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DepartmentStudentModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Models\\DepartmentStudentModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\DepartmentStudentModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Models\\DepartmentStudentModel.cs",
+              "RelativeToolTip": "BLL\\Models\\DepartmentStudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T17:40:39.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "BLL\\Models\\StudentModel.cs",
@@ -168,12 +179,11 @@
               "RelativeToolTip": "BLL\\Models\\StudentModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T17:41:21.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-16T17:41:21.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\DAL\\EF\\Tables\\Department.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Department.cs",
@@ -181,12 +191,11 @@
               "RelativeToolTip": "DAL\\EF\\Tables\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T16:19:43.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-16T16:19:43.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DepartmentModel.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\BLL\\Models\\DepartmentModel.cs",
               "RelativeDocumentMoniker": "BLL\\Models\\DepartmentModel.cs",
@@ -195,18 +204,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-16T16:18:52.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\appsettings.json",
-              "RelativeDocumentMoniker": "Application\\appsettings.json",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\3-TierApp\\Application\\appsettings.json",
-              "RelativeToolTip": "Application\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-16T15:27:37.403Z"
             },
             {
               "$type": "Document",
