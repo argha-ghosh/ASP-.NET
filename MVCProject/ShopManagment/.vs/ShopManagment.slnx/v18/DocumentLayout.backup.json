@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\bll\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\MappingConfig.cs",
               "RelativeDocumentMoniker": "BLL\\MappingConfig.cs",
@@ -66,38 +62,24 @@
               "RelativeToolTip": "BLL\\MappingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:42:21.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T05:42:21.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\EF\\Tables\\Product.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Product.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\EF\\Tables\\Product.cs",
               "RelativeToolTip": "DAL\\EF\\Tables\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T05:41:35.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "BLL\\Models\\ProductModel.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Models\\ProductModel.cs",
-              "RelativeToolTip": "BLL\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:41:19.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\Program.cs",
               "RelativeDocumentMoniker": "Application\\Program.cs",
@@ -115,40 +97,40 @@
               "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Services\\ProductService.cs",
               "RelativeToolTip": "BLL\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwCYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T05:28:37.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Application\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T05:47:54.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\Repository\\ProductRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\ProductRepo.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\Repository\\ProductRepo.cs",
               "RelativeToolTip": "DAL\\Repository\\ProductRepo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAA1wEEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T05:28:05.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\appsettings.json",
               "RelativeDocumentMoniker": "Application\\appsettings.json",
@@ -160,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
@@ -172,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",

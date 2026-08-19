@@ -34,5 +34,34 @@ namespace BLL.Services
             var mappedData = mapper.Map<List<ProductModel>>(data);
             return mappedData;
         }
+
+        //Get Product by ID
+        public ProductModel GetProducts(int id)
+        {
+            var data = services.GetProducts(id);
+            return mapper.Map<ProductModel>(data);
+        }
+
+        //Update Product
+        public ProductModel UpdateProducts(int id, ProductModel model)
+        {
+            var mappedData = mapper.Map<Product>(model);
+            mappedData.ProductId = id;
+            var r = services.UpdateProducts(mappedData);
+            return mapper.Map<ProductModel>(r);
+        }
+
+        //Delete Product
+        public void DeleteProduct(int id)
+        {
+            services.DeleteProduct(id);
+        }
+
+        //Get Products by Price
+        public List<ProductModel> GetByPrice()
+        {
+            var data = services.GetByPrice();
+            return mapper.Map<List<ProductModel>>(data);
+        }
     }
 }
