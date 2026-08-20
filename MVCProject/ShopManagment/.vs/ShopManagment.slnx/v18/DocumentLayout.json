@@ -42,8 +42,7 @@
               "RelativeToolTip": "BLL\\MappingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:42:21.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T05:42:21.185Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Services\\ProductService.cs",
               "RelativeToolTip": "BLL\\Services\\ProductService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T05:28:37.205Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Application\\Controllers\\ProductController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:47:54.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T05:47:54.606Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "DAL\\Repository\\ProductRepo.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAYwEEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:28:05.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T05:28:05.496Z"
             }
           ]
         }

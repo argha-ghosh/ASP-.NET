@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\shopmanagment\\dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\MappingConfig.cs",
               "RelativeDocumentMoniker": "BLL\\MappingConfig.cs",
@@ -66,103 +46,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\EF\\Tables\\Product.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Product.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\EF\\Tables\\Product.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:41:35.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\Program.cs",
-              "RelativeDocumentMoniker": "Application\\Program.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\Program.cs",
-              "RelativeToolTip": "Application\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:29:38.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Services\\ProductService.cs",
               "RelativeToolTip": "BLL\\Services\\ProductService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwCYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T05:28:37.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Application\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:47:54.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T05:47:54.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\Repository\\ProductRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\ProductRepo.cs",
               "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\Repository\\ProductRepo.cs",
               "RelativeToolTip": "DAL\\Repository\\ProductRepo.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAA1wEEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwEEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:28:05.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\appsettings.json",
-              "RelativeDocumentMoniker": "Application\\appsettings.json",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\Application\\appsettings.json",
-              "RelativeToolTip": "Application\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-17T05:09:34.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:06:18.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\ShopManagment\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T05:06:00.366Z"
+              "WhenOpened": "2026-08-17T05:28:05.496Z"
             }
           ]
         }

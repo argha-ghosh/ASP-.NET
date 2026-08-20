@@ -57,7 +57,7 @@ namespace BLL.Services
             services.DeleteProduct(id);
         }
 
-        //Get Products by Price
+        //Get Products by Pricesss
         public List<ProductModel> GetByPrice()
         {
             var data = services.GetByPrice();
