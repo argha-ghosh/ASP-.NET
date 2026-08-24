@@ -11,11 +11,11 @@ namespace BLL.Services
 {
     public class ProductService
     {
-        ProductRepo services;
+        ProductRepo repo;
         IMapper mapper;
-        public ProductService(ProductRepo services, IMapper mapper)
+        public ProductService(ProductRepo repo, IMapper mapper)
         {
-            this.services = services;
+            this.repo = repo;
             this.mapper = mapper;
         }
 
@@ -23,14 +23,14 @@ namespace BLL.Services
         public ProductModel AddService(ProductModel model)
         {
             var mappedData = mapper.Map<Product>(model);
-            var r = services.AddProduct(mappedData);
+            var r = repo.AddProduct(mappedData);
             return mapper.Map<ProductModel>(r);
         }
 
         //Get all Productss
         public List<ProductModel> GetAllProducts()
         {
-            var data = services.GetAllProducts();
+            var data = repo.GetAllProducts();
             var mappedData = mapper.Map<List<ProductModel>>(data);
             return mappedData;
         }
@@ -38,7 +38,7 @@ namespace BLL.Services
         //Get Product by ID
         public ProductModel GetProducts(int id)
         {
-            var data = services.GetProducts(id);
+            var data = repo.GetProducts(id);
             return mapper.Map<ProductModel>(data);
         }
 
@@ -47,20 +47,20 @@ namespace BLL.Services
         {
             var mappedData = mapper.Map<Product>(model);
             mappedData.ProductId = id;
-            var r = services.UpdateProducts(mappedData);
+            var r = repo.UpdateProducts(mappedData);
             return mapper.Map<ProductModel>(r);
         }
 
         //Delete Product
         public void DeleteProduct(int id)
         {
-            services.DeleteProduct(id);
+            repo.DeleteProduct(id);
         }
 
         //Get Products by Pricesss
         public List<ProductModel> GetByPrice()
         {
-            var data = services.GetByPrice();
+            var data = repo.GetByPrice();
             return mapper.Map<List<ProductModel>>(data);
         }
     }
