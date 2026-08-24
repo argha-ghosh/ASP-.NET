@@ -1,0 +1,15 @@
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\bin\Debug\net10.0\DAL.deps.json
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\bin\Debug\net10.0\DAL.dll
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\bin\Debug\net10.0\DAL.pdb
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.sourcelink.json
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.dll
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\refint\DAL.dll
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.pdb
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+D:\AIUB\ASP .Net\Project\MVCProject\EventManagment\DAL\obj\Debug\net10.0\ref\DAL.dll

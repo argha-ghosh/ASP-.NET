@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\bll\\services\\volunteerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|solutionrelative:bll\\services\\volunteerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\dal\\ef\\eventmanagmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\eventmanagmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\dal\\ef\\tables\\volunteerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\volunteerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C137F1-BFE5-4954-BE9C-FEA7D8C6F085}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C137F1-BFE5-4954-BE9C-FEA7D8C6F085}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C137F1-BFE5-4954-BE9C-FEA7D8C6F085}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\application\\controllers\\volunteercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C137F1-BFE5-4954-BE9C-FEA7D8C6F085}|Application\\Application.csproj|solutionrelative:application\\controllers\\volunteercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|solutionrelative:bll\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\dal\\repository\\volunteerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\volunteerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\bll\\services\\eventservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|solutionrelative:bll\\services\\eventservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C137F1-BFE5-4954-BE9C-FEA7D8C6F085}|Application\\Application.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\application\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C137F1-BFE5-4954-BE9C-FEA7D8C6F085}|Application\\Application.csproj|solutionrelative:application\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\dal\\repository\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\bll\\model\\volunteermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|solutionrelative:bll\\model\\volunteermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\dal\\ef\\tables\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\dal\\ef\\tables\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\bll\\model\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|solutionrelative:bll\\model\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175D090C-19FB-44CF-A3CF-2DD96D549115}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|d:\\aiub\\asp .net\\project\\mvcproject\\eventmanagment\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B24FE1-CF3B-479B-B1D4-D252EB8B7F07}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:38:32.173Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventManagmentContext.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\EventManagmentContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\EventManagmentContext.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\EventManagmentContext.cs",
+              "RelativeToolTip": "DAL\\EF\\EventManagmentContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T11:01:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VolunteerSkill.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\Tables\\VolunteerSkill.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\VolunteerSkill.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\Tables\\VolunteerSkill.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\VolunteerSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T11:01:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VolunteerController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\Application\\Controllers\\VolunteerController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\VolunteerController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\Application\\Controllers\\VolunteerController.cs",
+              "RelativeToolTip": "Application\\Controllers\\VolunteerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:02:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\Application\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\Application\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Application\\Controllers\\EventController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:02:16.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolunteerServices.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Services\\VolunteerServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\VolunteerServices.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Services\\VolunteerServices.cs",
+              "RelativeToolTip": "BLL\\Services\\VolunteerServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:01:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventServices.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Services\\EventServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EventServices.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Services\\EventServices.cs",
+              "RelativeToolTip": "BLL\\Services\\EventServices.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:00:34.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VolunteerRepo.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\Repository\\VolunteerRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\VolunteerRepo.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\Repository\\VolunteerRepo.cs",
+              "RelativeToolTip": "DAL\\Repository\\VolunteerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:43:05.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VolunteerModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Model\\VolunteerModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Model\\VolunteerModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Model\\VolunteerModel.cs",
+              "RelativeToolTip": "BLL\\Model\\VolunteerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:42:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\Tables\\Volunteer.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Volunteer.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\Tables\\Volunteer.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Volunteer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:42:06.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Model\\EventModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Model\\EventModel.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Model\\EventModel.cs",
+              "RelativeToolTip": "BLL\\Model\\EventModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:41:43.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\Tables\\Event.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Event.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\EF\\Tables\\Event.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:41:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventRepo.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\Repository\\EventRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\EventRepo.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\Repository\\EventRepo.cs",
+              "RelativeToolTip": "DAL\\Repository\\EventRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:39:29.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MappingConfig.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\MappingConfig.cs",
+              "RelativeToolTip": "BLL\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:37:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:30:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\AIUB\\ASP .Net\\Project\\MVCProject\\EventManagment\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:30:45.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
